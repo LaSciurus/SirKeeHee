@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SirKeeHee
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Front End
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Sharing in Web Development
 - 📫 How to reach me kevinpranata138@gmail.com
 
 <!---
