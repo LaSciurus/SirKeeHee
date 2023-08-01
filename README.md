@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SirKeeHee
+- 👋 Hi, I’m @La Sciurus
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Front End
+- 🌱 I’m currently learning Full Stack Developer
 - 💞️ I’m looking to collaborate on Sharing in Web Development
 - 📫 How to reach me kevinpranata138@gmail.com
 
